@@ -9,7 +9,6 @@ makedocs(;
     repo="https://github.com/AcubeSAT/BenchlingIntegration.jl/blob/{commit}{path}#L{line}",
     sitename="BenchlingIntegration.jl",
     authors="Orestis Ousoultzoglou & Stavros Filosidis",
-    assets=String[],
 )
 
 deploydocs(;

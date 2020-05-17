@@ -1,5 +1,7 @@
 module BenchlingIntegration
 
-greet() = print("Hello World!")
+export getA
+
+getA() = :A
 
 end # module
